@@ -1,3 +1,4 @@
 apiVersion: v2
 name: contoso-website
+version: 3.3.1
 description: Chart for the Contoso company website
