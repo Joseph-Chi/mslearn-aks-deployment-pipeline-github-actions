@@ -1,5 +1,5 @@
 image:
-  repository: <acr-name>
+  repository: contosocontainerregistry30901
   name: contoso-website
   tag: latest
 
